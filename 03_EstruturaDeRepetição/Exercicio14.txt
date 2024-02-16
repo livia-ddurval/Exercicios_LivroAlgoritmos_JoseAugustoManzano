@@ -1,1 +1,0 @@
-// Elaborar um programa que leia sucessivamente valores numéricos e apresente no final o somatório, a média e o total de velores lidos. O programa deve ler os valores enquanto o usuário estiver fornecendo valores positivos.

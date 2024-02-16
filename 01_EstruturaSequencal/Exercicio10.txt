@@ -1,1 +1,0 @@
-// Ler dois valores numéricos inteiros e calcular a diferença do primeiro pelo segundo.

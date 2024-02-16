@@ -1,1 +1,0 @@
-// Escrever um programa que apresente como resultado a potência de uma base qualquer elevado a um expoente qualquer.

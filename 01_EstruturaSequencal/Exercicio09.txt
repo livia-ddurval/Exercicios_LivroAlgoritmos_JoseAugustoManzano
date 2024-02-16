@@ -1,1 +1,0 @@
-// Efetuar a leitura de uma valor numérico inteiro e apresentar o resultado do valor lido elevado ao quadrado.

@@ -1,1 +1,0 @@
-// Elaborar um programa que apresente o resultado inteiro da divisão de dois números quaisquer. Não é permitido utilizar o operador aritmético da divisão.

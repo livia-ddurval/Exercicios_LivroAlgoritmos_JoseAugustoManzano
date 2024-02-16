@@ -1,1 +1,0 @@
-// Construir um programa que leia três números e calcula o valor do quadrado das somas dos três números.

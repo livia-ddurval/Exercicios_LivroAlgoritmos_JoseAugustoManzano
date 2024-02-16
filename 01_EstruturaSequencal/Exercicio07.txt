@@ -1,1 +1,0 @@
-// Ler quatro valores numéricos inteiros e apresentar os resultados das adições e multiplicações dos quatro números ente si.

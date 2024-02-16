@@ -1,1 +1,0 @@
-// Efetuar a leitura de três valores desconhecidos, soma-los e apresentar o resultado apenas se a soma for maior que 100.

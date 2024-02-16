@@ -1,1 +1,0 @@
-// Construir um programa que leia um valor numérico inteiro e apresente seu sucesso e antecessor.

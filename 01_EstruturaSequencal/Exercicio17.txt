@@ -1,1 +1,0 @@
-// Elaborar um programa que calcule e apresente o valor do resultado da área de uma circunferência.

@@ -1,1 +1,0 @@
-// Ler dois valores numéricos inteiros e apresentar o resultado inteiro do quadrado da divisão do valor de um número em relação ao valor do segundo número.

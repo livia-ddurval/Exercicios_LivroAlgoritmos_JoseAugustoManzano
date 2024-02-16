@@ -1,1 +1,0 @@
-// Elaborar um programa que apresente os resultados das potências do valor de base 3, elevado a um espoente de 0 a 15.

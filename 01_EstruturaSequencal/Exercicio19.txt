@@ -1,1 +1,0 @@
-// Elaborar um programa que leia dois valores numéricos e calculas as quatro operações básicas.

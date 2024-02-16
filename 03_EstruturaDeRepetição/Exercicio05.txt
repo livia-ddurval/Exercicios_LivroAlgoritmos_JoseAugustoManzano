@@ -1,1 +1,0 @@
-// Elaborar um programa que apresente todos os valores númericos interios impares situados na faixa de 0 a 200.

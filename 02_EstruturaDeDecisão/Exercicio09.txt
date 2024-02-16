@@ -1,1 +1,0 @@
-// Ler cinco valores numéricos inteiros e apresentar o maior e menor.
